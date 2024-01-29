@@ -7,18 +7,26 @@
 * **ADA Tech** em **Parceira com Banco Santander**
 * Facilitador: **Maurício Sobrinho**
 
-### **1. Do objetivo:**
+### **Membros do grupo:**
+
+* Anderson Miranda - ID: 1116003
+* André Kuster - ID: 1116029
+* Arthur Steins - ID: 1116023
+* João Souza - ID:
+* Juliana Bertolucci Peixoto - ID: 1116030
+
+### **1. OBJETIVO:**
 
 O objetivo deste projeto é recriar o algoritmo do KNN para calcular e classificar um dataset específico.
 
-### **2. Das limitações:**
+### **2. LIMITAÇÕES:**
 
 Ficando restrito a ementa do curso Santander Coders - ADA Tech, não foram utilizados:
 * Recursos avançados;
 * Orientação a Objetos;
 * Lib estrangeiras: Pandas, Numpy ou Scikit Learning;
 
-### **3. Referências (ou materiais consultados):**
+### **3. REFERÊNCIAS BIBLIOGRÁFICA:**
 
 Artificial Intelligence. (2024, 3 de Janeiro). What are the most effective distance metrics for optimizing k-nearest neighbors algorithms? Linkedin.com; www.linkedin.com. https://www.linkedin.com/advice/3/what-most-effective-distance-metrics-optimizing-xndwc.
 
@@ -46,15 +54,7 @@ Tavares, C. (2019, 26 Março). KNN sem caixa preta. Medium. Acesso em 22 Jan 202
 
 Yu, C., Ooi, B. C., Tan, K., & Jagadish, H. V. (2001). Indexing the Distance: An Efficient Method to KNN Processing. In Very Large Data Bases Conference.
 
-### **4. Integrantes do grupo:**
-
-* Anderson Miranda - ID: 1116003
-* André Kuster - ID: 1116029
-* Arthur Steins - ID: 1116023
-* João Souza - ID:
-* Juliana Bertolucci Peixoto - ID: 1116030
-
-### **5. Links úteis:**
+### **Links úteis:**
 
 - [ADA Tech](https://ada.tech/)
 - [Banco Santander - Academy](https://app.santanderopenacademy.com/pt-BR/program/bolsas-santander-santander-coders-2023-2-edicao)
