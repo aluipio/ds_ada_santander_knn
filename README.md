@@ -38,7 +38,7 @@ Ficando restrito a ementa do curso Santander Coders - ADA Tech, não foram utili
 * Orientação a Objetos;
 * Lib estrangeiras: Pandas, Numpy ou Scikit Learning;
 
-## **4. REFERÊNCIAS BIBLIOGRÁFICA:**
+## **4. REFERÊNCIAS BIBLIOGRÁFICAS:**
 
 Artificial Intelligence. (2024, 3 de Janeiro). What are the most effective distance metrics for optimizing k-nearest neighbors algorithms? Linkedin.com; www.linkedin.com. https://www.linkedin.com/advice/3/what-most-effective-distance-metrics-optimizing-xndwc.
 
