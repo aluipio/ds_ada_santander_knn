@@ -11,7 +11,7 @@
 
 * Anderson Miranda - ID: 1116003
 * André Kuster - ID: 1116029
-* Arthur Stein - ID: 1116023
+* Artur Stein - ID: 1116023
 * João Souza - ID:
 * Juliana Bertolucci Peixoto - ID: 1116030
 
