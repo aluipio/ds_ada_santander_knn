@@ -29,7 +29,7 @@ O objetivo deste projeto é recriar o algoritmo de machine learning K-Nearest Ne
 
 O acesso à água potável é essencial para a saúde, um direito humano básico e uma componente de uma política eficaz de protecção da saúde. Isto é importante como uma questão de saúde e desenvolvimento a nível nacional, regional e local. Em algumas regiões, foi demonstrado que os investimentos no abastecimento de água e no saneamento podem produzir um benefício económico líquido, uma vez que as reduções nos efeitos adversos para a saúde e nos custos dos cuidados de saúde superam os custos da realização das intervenções.
 
-Fonte: https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats
+Fonte: [Kaggle - Water Potability](https://www.kaggle.com/datasets/adityakadiwal/water-potability/data)
 
 ## **3. LIMITAÇÕES:**
 
