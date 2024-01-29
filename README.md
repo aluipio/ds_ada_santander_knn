@@ -7,7 +7,9 @@
 * **ADA Tech** em parceira com **Banco Santander**
 * Facilitador: **Maurício Sobrinho**
 
-### **Membros do grupo:**
+![KNN](https://github.com/aluipio/ds_ada_santander_knn/blob/main/images/ds_ml_ada.png?raw=true)
+
+## **Membros do grupo:**
 
 * Anderson Miranda - ID: 1116003
 * André Kuster - ID: 1116029
@@ -15,18 +17,28 @@
 * João Souza - ID:
 * Juliana Bertolucci Peixoto - ID: 1116030
 
-### **1. OBJETIVO:**
+----
+
+## **1. OBJETIVO:**
 
 O objetivo deste projeto é recriar o algoritmo de machine learning K-Nearest Neighbors - KNN, em python, para calcular e classificar um dataset específico.
 
-### **2. LIMITAÇÕES:**
+## **2. DATA SOURCE:**
+
+**Água potável**
+
+O acesso à água potável é essencial para a saúde, um direito humano básico e uma componente de uma política eficaz de protecção da saúde. Isto é importante como uma questão de saúde e desenvolvimento a nível nacional, regional e local. Em algumas regiões, foi demonstrado que os investimentos no abastecimento de água e no saneamento podem produzir um benefício económico líquido, uma vez que as reduções nos efeitos adversos para a saúde e nos custos dos cuidados de saúde superam os custos da realização das intervenções.
+
+Fonte: https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats
+
+## **3. LIMITAÇÕES:**
 
 Ficando restrito a ementa do curso Santander Coders - ADA Tech, não foram utilizados:
 * Recursos avançados;
 * Orientação a Objetos;
 * Lib estrangeiras: Pandas, Numpy ou Scikit Learning;
 
-### **3. REFERÊNCIAS BIBLIOGRÁFICA:**
+## **4. REFERÊNCIAS BIBLIOGRÁFICA:**
 
 Artificial Intelligence. (2024, 3 de Janeiro). What are the most effective distance metrics for optimizing k-nearest neighbors algorithms? Linkedin.com; www.linkedin.com. https://www.linkedin.com/advice/3/what-most-effective-distance-metrics-optimizing-xndwc.
 
@@ -54,7 +66,9 @@ Tavares, C. (2019, 26 Março). KNN sem caixa preta. Medium. Acesso em 22 Jan 202
 
 Yu, C., Ooi, B. C., Tan, K., & Jagadish, H. V. (2001). Indexing the Distance: An Efficient Method to KNN Processing. In Very Large Data Bases Conference.
 
-### **Links úteis:**
+----
+
+## **Links úteis:**
 
 - [ADA Tech](https://ada.tech/)
 - [Banco Santander - Academy](https://app.santanderopenacademy.com/pt-BR/program/bolsas-santander-santander-coders-2023-2-edicao)
