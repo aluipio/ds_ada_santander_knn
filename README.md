@@ -1,10 +1,10 @@
 # **KNN Lib ® 2024** 🚀
 
-* Projeto: **Algoritmo de KNN**
+* Projeto: **Algoritmo de K-Nearest Neighbors - KNN**
 
 * Curso: **Santander Coders 2023 | 2º Semestre**
 * Módulo: **Lógica de Programação II (PY)**
-* **ADA Tech** em **Parceira com Banco Santander**
+* **ADA Tech** em parceira com **Banco Santander**
 * Facilitador: **Maurício Sobrinho**
 
 ### **Membros do grupo:**
@@ -17,7 +17,7 @@
 
 ### **1. OBJETIVO:**
 
-O objetivo deste projeto é recriar o algoritmo do KNN para calcular e classificar um dataset específico.
+O objetivo deste projeto é recriar o algoritmo de machine learning K-Nearest Neighbors - KNN, em python, para calcular e classificar um dataset específico.
 
 ### **2. LIMITAÇÕES:**
 
